@@ -1,0 +1,13 @@
+kagglehub
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+seaborn
+pillow
+opencv-python
+scikit-image
+tqdm
+torch
+ultralytics
